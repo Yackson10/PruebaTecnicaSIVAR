@@ -1,10 +1,10 @@
 Se crearon estas 5 Tablas para el proyecto
 
-EMPRESA 
-EMPRESA_PUNTO_DE_VENTA
-PUNTO_DE_VENTA
-USUARIO
-USUARIO_EMPRESA
+EMPRESA,   
+EMPRESA_PUNTO_DE_VENTA,  
+PUNTO_DE_VENTA,  
+USUARIO,  
+USUARIO_EMPRESA  
 
 Por postman se consumen los siguientes servicios
 
