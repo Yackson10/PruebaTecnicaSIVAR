@@ -1,0 +1,12 @@
+com\usuarios\usuarioApp\controllers\UsuarioController.class
+com\usuarios\usuarioApp\entity\UsuarioEmpresaEntity$UsuarioEmpresaEntityBuilder.class
+com\usuarios\usuarioApp\entity\UsuarioEmpresaEntity.class
+com\usuarios\usuarioApp\entity\EmpresaEntity$EmpresaEntityBuilder.class
+com\usuarios\usuarioApp\entity\UsuarioEntity$UsuarioEntityBuilder.class
+com\usuarios\usuarioApp\service\UsuarioService.class
+com\usuarios\usuarioApp\entity\EmpresaEntity.class
+com\usuarios\usuarioApp\entity\PuntoDeVentaEntity.class
+com\usuarios\usuarioApp\entity\UsuarioEntity.class
+com\usuarios\usuarioApp\UsuarioAppApplication.class
+com\usuarios\usuarioApp\entity\PuntoDeVentaEntity$PuntoDeVentaEntityBuilder.class
+com\usuarios\usuarioApp\repository\UsuarioRepository.class
